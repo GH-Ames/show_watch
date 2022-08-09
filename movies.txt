@@ -1,0 +1,16 @@
+#season	show	episode	times_watched
+1	office	"Pilot"	0
+1	office	"Diversity Day"	0
+1	office	"Health Care"	0
+1	office	"The Alliance"	0
+1	office	"Basketball"	0
+1	office	"Hot Girl"	0
+2	stranger_things	"Chapter One: MADMAX"	0
+2	stranger_things	"Chapter Two: Trick or Treat, Freak"	0
+2	stranger_things	"Chapter Three: The Pollywog"	0
+2	stranger_things	"Chapter Four: Will the Wise"	0
+2	stranger_things	"Chapter Five: Dig Dug"	0
+2	stranger_things	"Chapter Six: The Spy"	0
+2	stranger_things	"Chapter Seven: The Lost Sister"	0
+2	stranger_things	"Chapter Eight: The Mind Flayer"	0
+2	stranger_things	"Chapter Nine: The Gate"	0
